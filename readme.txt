@@ -18,12 +18,18 @@ A Simple Twitter widget for your sidebars. No passwords and is customisable!
  == Description ==
 
 
-Description: Creates a Simple Twitter profile widget for your sidebars. 
-    Links @usernames, #hashtags and URLs
-    Works for any username with public tweets
-    Input your own colours to suit your website
-    Does not require a twitter password
-. This widget can be used with any theme.
+**Description:** Creates a Simple Twitter profile widget for your sidebars. 
+
+
+    1.Links @usernames, #hashtags and URLs
+
+    2.Works for any username with public tweets
+
+    3.Input your own colours to suit your website
+
+    4.Does not require a twitter password
+
+5. This widget can be used with any theme
 
 == Installation ==
 
