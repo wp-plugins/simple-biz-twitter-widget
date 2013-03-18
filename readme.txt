@@ -61,9 +61,9 @@ See more:
 http://simplebiz.graphicreaction.info/simple-biz-twitter-widget
 
 
-== Screenshots ==
+    == Screenshots ==
 
-1. Here's a screenshot 
+    1. Here's a screenshot of it in action
 
 
 == Changelog ==
