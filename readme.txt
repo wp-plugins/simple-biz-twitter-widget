@@ -69,7 +69,9 @@ http://simplebiz.graphicreaction.info/simple-biz-twitter-widget
 
     == Screenshots ==
 
-    1. Here's a screenshot of it in action
+1. Input the data
+
+2. Here's a screenshot of it in action
 
 
 == Changelog ==
