@@ -9,7 +9,7 @@ Donate link: http://simplebiz.graphicreaction.info/simple-biz-twitter-widget
 Tags: twitter, widget, social, tweets, sidebar, feed, connect, simple, easy
 Requires at least: 3.0.1
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: Trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
