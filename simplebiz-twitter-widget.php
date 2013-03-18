@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: SimbleBiz Twitter Widget
+Plugin Name: Simple Biz Twitter Widget
 Plugin URI: http://simplebiz.graphicreaction.info/simple-biz-twitter-widget
-Description: Creates a Simple Twitter profile widget for your sidebars. Created for the Premium Simple Biz Theme. This widget can be used with any theme.
+Description: Creates a Simple Twitter widget for your sidebars. No passwords and is customisable! This widget can be used with any theme.
 Version: 1.0
 Author: Graphic Reaction
 Author URI: http://graphicreaction.com
