@@ -29,7 +29,11 @@ A Simple Twitter widget for your sidebars. No passwords and is customisable!
 
     4.Does not require a twitter password
 
-5. This widget can be used with any theme
+    5.This widget can be used with any theme
+
+
+
+
 
 == Installation ==
 
